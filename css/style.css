@@ -511,7 +511,8 @@ body{
         height: 150px;
     }
     .order_img{
-        margin-right: 0;
+        /* margin-right: 0; */
+        margin: auto 0;
     }
     #testimonial .testimonial_header{
         font-size: 2.5rem;
