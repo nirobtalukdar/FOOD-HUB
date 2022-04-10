@@ -510,7 +510,7 @@ body{
         width: 150px;
         height: 150px;
     }
-    .order_img{
+    .food_menu_img{
         /* margin-right: 0; */
         margin: auto 0;
     }
@@ -546,6 +546,9 @@ body{
     }
     #footer{
         display: none;
+    }
+    #food_menu .fm_container .food_menu_item{
+        margin-bottom: 6rem;
     }
 
 }
